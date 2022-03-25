@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+Design Credit : https://www.figma.com/file/FCeOv2kpOEZiDh2ZuvgynA/Food-Delivery-App-(Community)?node-id=2%3A5529
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pages:
+![Getting Started Page](https://user-images.githubusercontent.com/63158771/160191879-184d32c2-ffac-4222-8bc1-bb3829a1550e.png)
+![Home Page](https://user-images.githubusercontent.com/63158771/160191889-c48f24c2-d454-4094-b1fd-eeeda63922fe.png)
+![Item Page](https://user-images.githubusercontent.com/63158771/160191893-6cb31756-e544-4af1-a83e-e2b63957ce9d.png)
