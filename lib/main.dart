@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:food_delivery/screens/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -6,21 +7,14 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Food Delivery',
+      debugShowCheckedModeBanner: false,
+      title: "Food Delivery",
       theme: ThemeData(),
       home: const SplashScreen(),
     );
-  }
-}
-
-class SplashScreen extends StatelessWidget {
-  const SplashScreen({Key? key}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold();
   }
 }
